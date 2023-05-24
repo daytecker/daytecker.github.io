@@ -2,4 +2,4 @@
 .local
 src/.env
 
-*.env
+src/*.env
