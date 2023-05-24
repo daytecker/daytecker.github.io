@@ -1,5 +1,0 @@
-.env.local
-.local
-src/.env
-
-src/*.env
